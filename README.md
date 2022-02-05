@@ -1,4 +1,4 @@
-# Pygame project from Python Crash Course book, with some configurations and debugs of my own
+# Pygame project
 
 # Add move up and down features
 # Create high score file in first run
